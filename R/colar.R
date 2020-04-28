@@ -10,5 +10,5 @@
 #' @export
 
 colar = function (a, b) {
-  paste (a, b)
+  paste0(a, b)
 }
